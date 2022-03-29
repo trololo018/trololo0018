@@ -1,0 +1,7 @@
+@bin bin/freemat
+share/FreeMat-${V}/
+share/FreeMat-${V}/help/
+share/FreeMat-${V}/help/html/
+share/FreeMat-${V}/help/html/acos_eqn1.png
+share/FreeMat-${V}/help/html/acos_eqn2.png
+share/FreeMat-${V}/help/html/acosh_eqn1.png
